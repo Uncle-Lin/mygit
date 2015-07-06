@@ -1,0 +1,4 @@
+1、把debugging下的working directory设置为.dll文件所在文件夹
+2、把c/c++目录下general的additional include directory设置为opencv和opencv2所在文件夹
+3、把linker下的general下的addional library directory设置为lib文件夹所在文件夹
+4、在linker下的additional dependecies设置为.lib文件所在文件夹
